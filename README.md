@@ -79,7 +79,11 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 
 
-![Table_1](https://github.com/user-attachments/assets/79bd2d26-4bb5-4bd4-9432-917b0383aaa3)
+
+
+
+![Pivot_Table_1](https://github.com/user-attachments/assets/ebfab2e2-710c-46d0-9753-618332c28382)
+
 
 
 
