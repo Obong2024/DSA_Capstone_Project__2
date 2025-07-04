@@ -66,3 +66,8 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 
 
+
+
+![Table_1](https://github.com/user-attachments/assets/f811fdd5-48b6-4f41-a57a-b744bd8f389e)
+
+
