@@ -61,6 +61,17 @@ Use pivot tables and calculated columns where necessary to answer the following:
 - Insert a new column beside Discouunted_Price which is calculated as **=IF(H2<200,"<₹200",IF(OR(H2=200,H2<=500),"₹200 - ₹500",">₹500"))**
 - Note that at this point the dataset is ready for summarization
 
+### DATA VISUALIZATION
+---------
+### PIVOT TABLE AND CHARTS Pivot tables are displayed below to show the following results;
+
+### Average Discount Perentage By Category
+
+### Count of Produts Per Category
+
+### Total Potential Revenue By Category
+
+### Average Actual Price By Discounted Price Per Category
 
 
 
@@ -68,6 +79,8 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 
 
-![Table_1](https://github.com/user-attachments/assets/f811fdd5-48b6-4f41-a57a-b744bd8f389e)
+![Table_1](https://github.com/user-attachments/assets/79bd2d26-4bb5-4bd4-9432-917b0383aaa3)
+
+
 
 
