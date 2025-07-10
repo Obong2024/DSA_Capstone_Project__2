@@ -63,16 +63,27 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 ### DATA VISUALIZATION
 ---------
-### PIVOT TABLE AND CHARTS Pivot tables are displayed below to show the following results;
+### Below is pictorial presentation of PIVOT TABLE AND CHARTS showing the following results;
 
-### Average Discount Perentage By Category
+(1) Average Discount Perentage By Category
 
-### Count of Produts Per Category
+(2) Count of Produts Per Category
 
-### Total Potential Revenue By Category
+(3) Total number of Reviews per Category
 
-### Average Actual Price By Discounted Price Per Category
+(4) Products with Highest Rating
 
+(5) Average Actual Price By Discounted Price Per Category
+
+(6) Products with Highest Reviews
+
+(7) Products with 50% or more Discount
+
+(8) Distribution of Products Rating
+
+(9) Total Potential Revenue By Category
+
+(10) Number of unique Products per Price Range Bucket etc
 
 
 
