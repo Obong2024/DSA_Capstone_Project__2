@@ -101,7 +101,13 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 
 
+
+
 ![Table_2](https://github.com/user-attachments/assets/ebfab2e2-710c-46d0-9753-618332c28382)
+
+
+
+
 
 
 
@@ -161,7 +167,6 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 
 
-<img width="305" height="417" alt="Table_7" src="https://github.com/user-attachments/assets/869115ab-729e-473c-ad15-66ee51c4be7b" />
 
 
 
