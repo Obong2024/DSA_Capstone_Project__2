@@ -2,27 +2,27 @@
 
 ## Amazon Product Review Analysis
 
-- Company Overview
+### Company Overview
 
 ----------
 
 You are working as a Junior Data Analyst at RetailTech Insights, **a company that provides e-commerce analytics solutions to sellers on platforms like Amazon.** Your team has been
 tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-- Dataset Description
+### Dataset Description
 
 The dataset contains information scraped from Amazon product pages, including:
 
-  - Product details: name, category, price, discount, and ratings
+1. **Product details:** name, category, price, discount, and ratings
 
- Customer engagement: user reviews, titles, and content
+2. **Customer engagement:** user reviews, titles, and content
  
  Each row represents a unique product, with aggregated reviewer data stored as comma-separated values
 
-Total Records: 1,465 rows TotalFields: 16 columns
+3. **Total Records:** 1,465 rows TotalFields: 16 columns
 
 
- - Analysis Tasks
+### Analysis Tasks
 --------------
 Use pivot tables and calculated columns where necessary to answer the following:
 1. What is the average discount percentage by product category?
@@ -100,6 +100,68 @@ Use pivot tables and calculated columns where necessary to answer the following:
 
 
 
+
+![Table_2](https://github.com/user-attachments/assets/ebfab2e2-710c-46d0-9753-618332c28382)
+
+
+
+
+
+
+![Table_3](https://github.com/user-attachments/assets/ebfab2e2-710c-46d0-9753-618332c28382)
+
+
+
+
+
+
+
+![Table_4](https://github.com/user-attachments/assets/ebfab2e2-710c-46d0-9753-618332c28382)
+
+
+
+
+
+
+
+
+
+
+![Table_5](https://github.com/user-attachments/assets/ebfab2e2-710c-46d0-9753-618332c28382)
+
+
+
+
+
+
+
+
+
+
+![Table_6](https://github.com/user-attachments/assets/ebfab2e2-710c-46d0-9753-618332c28382)
+
+
+
+
+
+
+
+
+
+
+
+![Table_7](https://github.com/user-attachments/assets/ebfab2e2-710c-46d0-9753-618332c28382)
+
+
+
+
+
+
+
+
+
+
+<img width="305" height="417" alt="Table_7" src="https://github.com/user-attachments/assets/869115ab-729e-473c-ad15-66ee51c4be7b" />
 
 
 
